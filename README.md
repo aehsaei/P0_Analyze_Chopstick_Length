@@ -1,2 +1,3 @@
 # P0_Analyze_Chopstick_Length
-Data Analyst NanoDegree Project 0
+
+An investigation for determining the optimum length of chopsticks.
