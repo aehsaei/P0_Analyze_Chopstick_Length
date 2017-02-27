@@ -536,7 +536,7 @@ plt.show()
 
 
 
-![png](P0_Analyze_Chopstick_Length_files/P0_Analyze_Chopstick_Length_13_1.png)
+![png](P0_Analyze_Chopstick_Length_13_1.png)
 
 
 #### 6. Based on the scatterplot created from the code above, interpret the relationship you see. What do you notice?
